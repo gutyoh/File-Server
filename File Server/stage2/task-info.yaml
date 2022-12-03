@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: tests.py
+  visible: true
+- name: python_solution/client.py
+  visible: true
+- name: python_solution/server.py
+  visible: true
+- name: client.go
+  visible: true
+- name: server.go
+  visible: true
