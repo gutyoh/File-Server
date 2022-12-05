@@ -2,11 +2,11 @@ type: edu
 files:
 - name: tests.py
   visible: true
-- name: python_solution/client.py
+- name: client.py
   visible: true
-- name: python_solution/server.py
+- name: server.py
   visible: true
-- name: client.go
+- name: python_solution/client.go
   visible: true
-- name: server.go
+- name: python_solution/server.go
   visible: true
